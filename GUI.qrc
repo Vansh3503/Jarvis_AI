@@ -1,0 +1,76 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../G.U.I Material/B.G/Black_Template.jpg</file>
+        <file>../G.U.I Material/B.G/gyhf.jpg</file>
+        <file>../G.U.I Material/B.G/Iron_Template_1.gif</file>
+        <file>../G.U.I Material/B.G/Iron_Template_2.jpg</file>
+        <file>../G.U.I Material/VoiceReg/__1.gif</file>
+        <file>../G.U.I Material/VoiceReg/__02-____.gif</file>
+        <file>../G.U.I Material/VoiceReg/Aqua.gif</file>
+        <file>../G.U.I Material/VoiceReg/jarvis_jj.gif</file>
+        <file>../G.U.I Material/VoiceReg/Ntuks.gif</file>
+        <file>../G.U.I Material/VoiceReg/Qualt.gif</file>
+        <file>../G.U.I Material/VoiceReg/Siri.gif</file>
+        <file>../G.U.I Material/VoiceReg/Siri_1.gif</file>
+        <file>../G.U.I Material/ExtraGui/B.G_Template_1.gif</file>
+        <file>../G.U.I Material/ExtraGui/Code_Template.gif</file>
+        <file>../G.U.I Material/ExtraGui/Earth.gif</file>
+        <file>../G.U.I Material/ExtraGui/Earth_Template.gif</file>
+        <file>../G.U.I Material/ExtraGui/Health_Template.gif</file>
+        <file>../G.U.I Material/ExtraGui/Hero_Template.gif</file>
+        <file>../G.U.I Material/ExtraGui/initial.gif</file>
+        <file>../G.U.I Material/ExtraGui/Jarvis_Gui (1).gif</file>
+        <file>../G.U.I Material/ExtraGui/Jarvis_Gui (2).gif</file>
+        <file>../G.U.I Material/ExtraGui/live.gif</file>
+        <file>../G.U.I Material/ExtraGui/loading.gif</file>
+        <file>../G.U.I Material/ExtraGui/loading_1.gif</file>
+        <file>../G.U.I Material/ExtraGui/program_load.gif</file>
+        <file>../G.U.I Material/Buttons/Quit.png</file>
+        <file>../G.U.I Material/Buttons/Start.png</file>
+        <file>../G.U.I Material/Buttons/avengero-regular (1).png</file>
+        <file>../G.U.I Material/Buttons/avengero-regular.png</file>
+        <file>../G.U.I Material/Buttons/avengero-regular 9.png</file>
+        <file>avengero-regular 9.png</file>
+        <file>back.png</file>
+        <file>retry.png</file>
+        <file>__1.gif</file>
+        <file>__02-____.gif</file>
+        <file>Aqua.gif</file>
+        <file>avengero-regular (1).png</file>
+        <file>avengero-regular (2).png</file>
+        <file>avengero-regular.png</file>
+        <file>B.G_Template_1.gif</file>
+        <file>Black_Template.jpg</file>
+        <file>Code_Template.gif</file>
+        <file>Earth.gif</file>
+        <file>Earth_Template.gif</file>
+        <file>form.ui</file>
+        <file>GUI.qrc</file>
+        <file>gyhf.jpg</file>
+        <file>Health_Template.gif</file>
+        <file>Hero_Template.gif</file>
+        <file>initial.gif</file>
+        <file>Iron_Template_1.gif</file>
+        <file>Iron_Template_2.jpg</file>
+        <file>Jarvis_Gui (1).gif</file>
+        <file>Jarvis_Gui (2).gif</file>
+        <file>jarvis_jj.gif</file>
+        <file>live.gif</file>
+        <file>loading.gif</file>
+        <file>loading_1.gif</file>
+        <file>Ntuks.gif</file>
+        <file>program_load.gif</file>
+        <file>Qualt.gif</file>
+        <file>Quit.png</file>
+        <file>Siri.gif</file>
+        <file>Siri_1.gif</file>
+        <file>Start.png</file>
+        <file>../G.U.I Material/Buttons/back.png</file>
+        <file>../G.U.I Material/Buttons/retry.png</file>
+        <file>wave.gif</file>
+        <file>../G.U.I Material/Buttons/wave.gif</file>
+        <file>../G.U.I Material/Buttons/avengero-regular (3).png</file>
+        <file>../G.U.I Material/Buttons/tenor.gif</file>
+        <file>../G.U.I Material/Buttons/d921358f2b283ff6d4e364dde38ee40a.gif</file>
+    </qresource>
+</RCC>

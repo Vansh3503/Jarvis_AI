@@ -1,0 +1,10 @@
+{
+    "files": [
+        "main_gui_file.py",
+        "form.ui",
+        "GUI.qrc",
+        "login_window.ui",
+        "facerec.ui",
+        "JarvisMainGui.ui"
+    ]
+}
