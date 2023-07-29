@@ -415,7 +415,7 @@ class mainFile(QThread):
 
     def runJarvis(self):
         
-        '''play_music("JARVIS START UP.mp3")
+        play_music("JARVIS START UP.mp3")
         while pygame.mixer.music.get_busy():
             continue
         
@@ -438,7 +438,7 @@ class mainFile(QThread):
 
         speak(weather_info)
         speak("Greetings, hero of the digital realm! I am Jarvis, programmed to be your ultimate sidekick in the real world")
-        '''
+        
         
         
 
