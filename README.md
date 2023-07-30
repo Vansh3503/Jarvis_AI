@@ -1,7 +1,7 @@
 
 # Jarvis - Your Personal AI Assistant
 
-Jarvis is a personal AI assistant built using Python and various AI technologies to help you with everyday tasks and provide useful information. It uses OpenAI's GPT-3.5 language model for natural language processing and understanding. The assistant is designed to respond to voice commands and execute a wide range of tasks.
+Jarvis is a personal AI assistant built using Python and various AI technologies to help you with everyday tasks and provide useful information. . The assistant is designed to respond to voice commands and execute a wide range of tasks.
 
 ## Key Features
 
@@ -14,7 +14,6 @@ Jarvis is a personal AI assistant built using Python and various AI technologies
 ## Technologies Used
 
 - Python: The core programming language used for building Jarvis and integrating various functionalities.
-- OpenAI GPT-3.5: The AI language model that powers Jarvis's natural language understanding.
 - Speech Recognition: For converting user speech into text for processing voice commands.
 - Text-to-Speech (TTS): For converting Jarvis's responses into speech for user interaction.
 - Pygame: Used for playing audio files and handling background music for notifications.
